@@ -90,7 +90,7 @@ Above step enabled displaying player profile pictures inside Power BI dashboards
 
 *Date:* 20th August 2025
 
-## 📂 Download .pbix 
+## 📂 Download .pbix file using the link below and open it in Power BI Desktop files do not open in a web browser:
 📊 [Download the Power BI Dashboard (.pbix file)](https://github.com/Sujith-TS/Power-Bi-dashboard-/raw/main/assets/README-images/cricket.pbix)
 
 
