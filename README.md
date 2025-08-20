@@ -91,7 +91,8 @@ Above step enabled displaying player profile pictures inside Power BI dashboards
 *Date:* 20th August 2025
 
 ## 📂 Download .pbix 
-[Click here to download the Power BI Dashboard (cricket.pbix)](dashboard.pbix)
+📊 [Download the Power BI Dashboard (.pbix file)](https://github.com/Sujith-TS/Power-Bi-dashboard-/raw/main/assets/README-images/cricket.pbix)
+
 
 🎥 [Watch the interactive video demo on LinkedIn] 
 ## Link : https://www.linkedin.com/posts/sujith-siddarth-514830208_powerbi-dashboarddesign-datavisualization-activity-7363264166435966981-7swN?utm_source=share&utm_medium=member_android&rcm=ACoAADTN1eABJYc0svIfomu6QfBYptguHuLDHic
