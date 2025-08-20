@@ -2,7 +2,9 @@
 # Dashboard: ODI – India vs Australia: Visualizing the Game Key Moments & Player Metrics
     
 
-### Dashboard linkedin Link : https://www.linkedin.com/posts/sujith-siddarth-514830208_powerbi-dashboarddesign-datavisualization-activity-7363264166435966981-7swN?utm_source=share&utm_medium=member_android&rcm=ACoAADTN1eABJYc0svIfomu6QfBYptguHuLDHic
+### Dashboard linkedin Link : 
+📊 [Download the Power BI Dashboard (.pbix file)](https://github.com/Sujith-TS/Power-Bi-dashboard-/raw/main/assets/README-images/cricket.pbix)
+
 
 ## Problem Statement
 
